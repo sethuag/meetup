@@ -1,2 +1,2 @@
-# meetup resources
-# presentation and some meetup related files
+# Meetup resources
+# Presentation and some Meetup related files
